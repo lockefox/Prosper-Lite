@@ -60,5 +60,15 @@
 		"expires":""
 		}
 	}
-	]						
+	],
+"character_list":{
+		"--charID--":{
+				"characterName":"",
+				"corporationName":"",
+				"corporationID":"",
+				"iconpath":"",
+				"key":"",
+				"vCode":""
+			}
+	}
 }
