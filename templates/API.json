@@ -1,35 +1,64 @@
 {"keys":[
 	{"key":"","vCode":""},
-	{"key":"314597","vCode":"mExQBIWUHYJb7qnkHymbZsvMqzWF0lbxGsN1k5STq0wVoXAEeepBn3QAGfANUvP8"}
+	{"key":"314597","vCode":"mExQBIWUHYJb7qnkHymbZsvMqzWF0lbxGsN1k5STq0wVoXAEeepBn3QAGfANUvP8"},
+	{"key":"6310","vCode":"xEpf5V5BIXBd7SS9QS227NJSuBC4xOvwcpd6RywUrbPn3t1MX6ScPDhnrwrbeRwi"}
 ],
 "keyInfo":[
 	{"key":"","vCode":"","type":"","info":
-		{"characters":[
-			{"--charID--":{
+		{"characters":{
+			"--charID--":{
 				"characterID":"",
 				"characterName":"",
 				"corporationID":"",
 				"corporationName":"",
 				"iconpath":""
 				}
-			}],
+			},
 		"accessMask":"",
 		"expires":""
 		}
 	},
 	{"key":"314597","vCode":"mExQBIWUHYJb7qnkHymbZsvMqzWF0lbxGsN1k5STq0wVoXAEeepBn3QAGfANUvP8","type":"Corporation","info":{
-		"characters":[
-			{"425131377":{
+		"characters":{
+			"425131377":{
 				"characterID":"425131377",
 				"characterName":"anya Kitsune",
 				"corporationName":"Hell's Librarians",
 				"corporationID":"1882842989",
 				"iconpath":"/icons/1882842989_64.png"
 				}
-			}],
+			},
 		"accessMask":"67108863",
 		"expires":""
 		}
+	},
+	{"key":"6310","vCode":"xEpf5V5BIXBd7SS9QS227NJSuBC4xOvwcpd6RywUrbPn3t1MX6ScPDhnrwrbeRwi","type":"Character","info":{
+		"characters":{
+			"92509965":{
+				"characterID":"92509965",
+				"characterName":"Red Tail Blind",
+				"corporationName":"Hell's Librarians",
+				"corporationID":"1882842989",
+				"iconpath":"/icons/92509965_32.png"
+				},
+			"348613732":{
+				"characterID":"348613732",
+				"characterName":"Agasa Kaolla",
+				"corporationName":"Hell's Librarians",
+				"corporationID":"1882842989",
+				"iconpath":"/icons/9348613732_32.png"
+				},
+			"425131377":{
+				"characterID":"425131377",
+				"characterName":"anya Kitsune",
+				"corporationName":"Hell's Librarians",
+				"corporationID":"1882842989",
+				"iconpath":"/icons/425131377_32.png"
+				}
+			},
+		"accessMask":"",
+		"expires":""
+		}
 	}
-]		
+	]						
 }
