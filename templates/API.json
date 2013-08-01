@@ -1,0 +1,35 @@
+{"keys":[
+	{"key":"","vCode":""},
+	{"key":"314597","vCode":"mExQBIWUHYJb7qnkHymbZsvMqzWF0lbxGsN1k5STq0wVoXAEeepBn3QAGfANUvP8"}
+],
+"keyInfo":[
+	{"key":"","vCode":"","type":"","info":
+		{"characters":[
+			{"--charID--":{
+				"characterID":"",
+				"characterName":"",
+				"corporationID":"",
+				"corporationName":"",
+				"iconpath":""
+				}
+			}],
+		"accessMask":"",
+		"expires":""
+		}
+	},
+	{"key":"314597","vCode":"mExQBIWUHYJb7qnkHymbZsvMqzWF0lbxGsN1k5STq0wVoXAEeepBn3QAGfANUvP8","type":"Corporation","info":{
+		"characters":[
+			{"425131377":{
+				"characterID":"425131377",
+				"characterName":"anya Kitsune",
+				"corporationName":"Hell's Librarians",
+				"corporationID":"1882842989",
+				"iconpath":"/icons/1882842989_64.png"
+				}
+			}],
+		"accessMask":"67108863",
+		"expires":""
+		}
+	}
+]		
+}
